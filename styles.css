@@ -1,0 +1,23 @@
+img {
+    height: 200px;
+}
+
+div {
+    border: 5px solid lightgreen;
+    margin: 10px;
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.purple{
+    background-color:#ccccff;
+}
+
+.font{
+    font-family:"Courier New",Courier, monospace;
+}
+        
